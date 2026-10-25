@@ -12,7 +12,7 @@ Win+Alt+M            Bật/Tắt TOÀN BỘ âm thanh (bàn phím + chuột)
 Win+Alt+K            Bật/Tắt riêng âm thanh bàn phím
 Win+Alt+N            Bật/Tắt riêng âm thanh chuột
 Bật lại sẽ có tiếng báo; các công tắc đều được lưu vào keypro.ini.
- 
+
 ═══ 3. ÂM THANH BÀN PHÍM ═══
 Kiểu 1-28: phím chữ/số/ký hiệu/F1-F12 phát ngẫu nhiên 1 trong 3 file (1, 2, 3.wav).
 Kiểu 29: mỗi phím một file riêng:
@@ -69,4 +69,3 @@ Khởi động cùng Windows: bật/tắt ở menu chính (tạo shortcut trong 
 Cài đặt tự lưu trong sounds\keypro.ini (kiểu âm thanh, công tắc âm thanh,
 hiển thị, vị trí, màu sắc, khởi động cùng Windows).
 Mỗi thao tác đổi cài đặt đều có thông báo nhỏ ở khay hệ thống.
- 
