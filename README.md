@@ -69,3 +69,4 @@ Khởi động cùng Windows: bật/tắt ở menu chính (tạo shortcut trong 
 Cài đặt tự lưu trong sounds\keypro.ini (kiểu âm thanh, công tắc âm thanh,
 hiển thị, vị trí, màu sắc, khởi động cùng Windows).
 Mỗi thao tác đổi cài đặt đều có thông báo nhỏ ở khay hệ thống.
+ 
