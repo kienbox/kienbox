@@ -22,7 +22,7 @@ Win+Alt+K Bật/Tắt riêng âm thanh bàn phím
 
 Win+Alt+N Bật/Tắt riêng âm thanh chuột
 
-Bật lại sẽ có tiếng báo; các công tắc đều được lưu vào keypro.ini.
+Bật lại sẽ có tiếng báo; các công tắc đều được lưu vào kienbox.ini.
 
 ═══ 3. ÂM THANH BÀN PHÍM ═══
 
