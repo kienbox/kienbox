@@ -116,8 +116,6 @@ Menu có mục Khởi động lại để nạp lại script.
 
 Khởi động cùng Windows: bật/tắt ở menu chính (tạo shortcut trong thư mục Startup).
 
-Cài đặt tự lưu trong sounds\kienbox.ini (kiểu âm thanh, công tắc âm thanh,
-
-hiển thị, vị trí, màu sắc, khởi động cùng Windows).
+Cài đặt tự lưu trong sounds\kienbox.ini (kiểu âm thanh, hiển thị, vị trí, màu sắc, khởi động cùng Windows).
 
 Mỗi thao tác đổi cài đặt đều có thông báo nhỏ ở khay hệ thống.
