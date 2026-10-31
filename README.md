@@ -1,3 +1,5 @@
+Giả tiếng bàn phím cơ
+
 ═══ 1. ÂM THANH - ĐỔI KIỂU (29 kiểu) ═══
 
 Ctrl+Win+Alt + q w e r t y u i o p → kiểu 1 đến 10
